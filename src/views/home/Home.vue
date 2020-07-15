@@ -1,0 +1,14 @@
+<template>
+  <div>
+    <h2>首页</h2>
+  </div>
+</template>
+
+<script>
+export default {
+  components: {},
+  name: 'Home'
+}
+</script>
+<style lang="scss" scoped>
+</style>
